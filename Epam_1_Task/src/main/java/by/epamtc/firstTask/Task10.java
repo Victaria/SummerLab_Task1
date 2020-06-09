@@ -3,13 +3,14 @@ package by.epamtc.firstTask;
 import java.util.Scanner;
 
 public class Task10 {
-    public static int previousValue;
-    public static int currentValue;
-    static boolean isIncreasing = true;
-    static boolean hasACoupleOfSame = false;
-    static boolean isAlternating = true;
 
     public static void main(String[] args) {
+        int previousValue;
+        int currentValue;
+        boolean isIncreasing = true;
+        boolean hasACoupleOfSame = false;
+        boolean isAlternating = true;
+
         Scanner scanner = new Scanner(System.in);
         previousValue = scanner.nextInt();
         currentValue = scanner.nextInt();
