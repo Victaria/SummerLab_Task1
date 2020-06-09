@@ -1,14 +1,15 @@
 package by.epamtc.firstTask;
 
 public class Task8 {
-    public static double a = -5;
-    public static double b = 30;
-    public static double h = 3;
-    public static double x = a;
-    public static double c = 3;
-    public static double f = 0;
 
     public static void main(String[] args) {
+        double a = -5;
+        double b = 30;
+        double h = 3;
+        double x = a;
+        double c = 3;
+        double f = 0;
+
         while (x <= b) {
             if (x == 15) {
                 f += (x + c) * 2;
