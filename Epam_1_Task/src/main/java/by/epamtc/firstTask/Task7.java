@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 public class Task7 {
     public static final double R = 868.652;
 

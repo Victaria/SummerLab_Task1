@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 public class Task9 {
     public static long result = 3;
     public static long sum = 3;
