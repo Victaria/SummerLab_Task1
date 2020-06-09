@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 public class Task5 {
     public static Integer number = 258;
     public static Integer first;

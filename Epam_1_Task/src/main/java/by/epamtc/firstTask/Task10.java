@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 import java.util.Scanner;
 
 public class Task10 {

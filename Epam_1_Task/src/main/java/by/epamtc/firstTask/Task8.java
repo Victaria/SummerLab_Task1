@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 public class Task8 {
     public static double a = -5;
     public static double b = 30;

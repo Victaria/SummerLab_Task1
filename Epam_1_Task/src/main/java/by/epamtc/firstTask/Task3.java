@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 public class Task3 {
     private static double a = 120;
     private static double b = 12;

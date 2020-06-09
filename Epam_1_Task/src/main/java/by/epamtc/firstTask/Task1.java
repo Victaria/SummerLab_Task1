@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 public class Task1 {
     private static int a = 2;
     private static int b = 4;

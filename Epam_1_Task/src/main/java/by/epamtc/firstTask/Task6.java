@@ -1,3 +1,5 @@
+package by.epamtc.firstTask;
+
 public class Task6 {
     public static int sum = 0;
     public static int d = 120;
